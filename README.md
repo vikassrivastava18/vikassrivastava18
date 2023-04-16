@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vikassrivastava18
-- 👀 I’m interested in AI, Web, Mobile develment
+- 👋 Hi, I’m Vikas
+- 👀 I’m interested in AI, Web
 - 🌱 I’m currently learning Vue, Java, Linux commands
-- 💞️ I’m looking to collaborate on Python/Java
+- 💞️ I’m looking to collaborate on Python/AI
 - 📫 How to reach me: vikassrinitb@gmail.com
 - 
 

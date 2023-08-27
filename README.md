@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue, Java, Linux commands
 - 💞️ I’m looking to collaborate on Python/AI
 - 📫 How to reach me: vikassrinitb@gmail.com
-- 
+
 
 <!---
 vikassrivastava18/vikassrivastava18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

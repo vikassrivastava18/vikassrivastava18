@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas
 - 👀 I’m interested in AI, Web
-- 🌱 I’m currently learning Vue, Java, Linux commands
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Python/AI
 - 📫 How to reach me: vikassrinitb@gmail.com
 
